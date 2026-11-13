@@ -1,0 +1,30 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Executables
+*.exe
+*.msi
+*.bat
+*.cmd
+
+# Archives (keep only the release archive)
+*.zip
+*.rar
+*.7z
+!MW4-Optimizer-v1.0.zip
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment
+.env
